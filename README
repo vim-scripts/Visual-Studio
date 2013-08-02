@@ -1,0 +1,12 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4680
+
+This color scheme was derived from vimscript #3328
+It tries to be closer to the look of Visual Studios syntax highlighting and font.
+You should use it in the GUI version of vim (gvim).
+
+The archive includes the font Consolas from http://github.com/eugeneching/consolas-powerline-vim
+
+Screenshot:
+
+http://img545.imageshack.us/img545/5940/v7o4.png
+
