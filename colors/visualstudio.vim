@@ -14,7 +14,7 @@ if exists("syntax_on")
   syntax reset
 endif
 
-let colors_name = "blueshift"
+let colors_name = "visualstudio"
 
 " Taglist colors
 hi MyTagListFileName    guifg=black   guibg=#c0d0e0
